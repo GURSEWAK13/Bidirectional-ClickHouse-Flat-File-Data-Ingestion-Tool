@@ -1,0 +1,6 @@
+id,price_id,buyer_name,transaction_date,test_table.id,test_table.name,test_table.value
+1,325000,John Smith,2020-10-16,1,,
+2,550000,Sarah Johnson,2020-09-21,2,,
+3,425000,Michael Brown,2020-08-12,3,,
+4,275000,Emma Wilson,2020-11-06,4,,
+5,350000,James Taylor,2020-07-23,5,,

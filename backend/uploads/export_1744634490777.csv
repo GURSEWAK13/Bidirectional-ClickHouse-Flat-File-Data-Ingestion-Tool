@@ -1,0 +1,6 @@
+id,name,value,transactions.id,transactions.price_id,transactions.buyer_name,transactions.transaction_date
+1,Item 1,10.5,1,,,
+2,Item 2,20.75,2,,,
+3,Item 3,30.25,3,,,
+4,Item 4,40.8,4,,,
+5,Item 5,50.9,5,,,

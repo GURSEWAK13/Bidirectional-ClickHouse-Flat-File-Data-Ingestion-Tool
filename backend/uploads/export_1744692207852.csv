@@ -1,0 +1,6 @@
+price,date,postcode1,postcode2,type,is_new,duration,addr1,addr2,street,locality,town,district,county,category
+275000,2020-11-05,B1,1HQ,O,N,F,5,,Victoria Square,City Centre,Birmingham,Birmingham,West Midlands,D
+350000,2020-07-22,EH1,1YZ,N,Y,L,22,,Princes Street,New Town,Edinburgh,Edinburgh,Edinburgh,E
+425000,2020-08-10,M1,1AE,N,N,F,15,,Oxford Road,City Centre,Manchester,Manchester,Greater Manchester,C
+550000,2020-09-20,SE1,9BG,N,Y,L,1,,London Bridge Street,Southwark,London,Southwark,Greater London,B
+325000,2020-10-15,SW1A,1AA,O,N,F,10,,Downing Street,Westminster,London,City of Westminster,Greater London,A
